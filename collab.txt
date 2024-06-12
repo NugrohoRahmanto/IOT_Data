@@ -1,0 +1,13 @@
+CREATE DATASET
+walking: https://colab.research.google.com/drive/1ZYmZbTHIfAvAZACzy94aADyoyW4qWOP8?usp=sharing
+standing: https://colab.research.google.com/drive/1X9BFTPB2CsUjlh2Xqx_Ix24F5-0QNIMT?usp=sharing
+walking-down: https://colab.research.google.com/drive/1TCrDNueD-Cu0sW_SRc8fxqNRLKnwkrNP?usp=sharing
+
+CREATE MODEL
+https://colab.research.google.com/drive/1lRLOP5X6pkgdP_3ZppDm9BV3oX-mW65c?usp=sharing
+
+TEST MODEL
+https://colab.research.google.com/drive/1_AygA58Byh3g9FHLoOCzmaVjAwDeldje?usp=sharing
+
+MAKE TEST DATASET
+https://colab.research.google.com/drive/1B0pWIhW4S0DV5l9ZtE2fDeyiBW66G15V?usp=sharing
